@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://D:/JAVA/apache-maven-3.5.3/jt.iml" filepath="D:/JAVA/apache-maven-3.5.3/jt.iml" />
+      <module fileurl="file://D:/JAVA/apache-maven-3.5.3/jt-common.iml" filepath="D:/JAVA/apache-maven-3.5.3/jt-common.iml" />
+      <module fileurl="file://D:/JAVA/apache-maven-3.5.3/jt-manage.iml" filepath="D:/JAVA/apache-maven-3.5.3/jt-manage.iml" />
+    </modules>
+  </component>
+</project>
